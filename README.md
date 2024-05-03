@@ -1,20 +1,35 @@
 **SCRAPER VÝSLEDKŮ VOLEB DO PSP ČR ve dnech 20.10. - 21.10.2017**
+
 Pomocí tohoto programu "volby2017.py" je možné extrahovat výsledky parlamentních voleb do PSP konaných v roce 2017, a to pro vybraný okres z URL adresy - jako příklad funkcionality kódu byl zvolen okres Frýdek-Místek, pro který jsou data dostupná z této adresy: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8102. Soubor "volby2017.py" se spouští z příkazového řádku a je nutné zadat 2 argumenty <"URL_adresa"> <"vystupni_soubor.csv">, přičemž pro zápis těchto argumentů je nutné použít uvozovky - ukázka průběhu: 
 
 C:\Users\Příjmení\Desktop\ENGETO složka\PROJEKTY\projekt_3\projekt_3_web-scraping> python volby2017.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8102" "okres_frydek-mistek.csv"
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=598011&xvyber=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=598020&xvyber=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=511633&xvyber=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=598038&xvyber=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=598046&xvyber=8102
+
                                      (… dalších 62 záznamů…)
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=554928&xvyber=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=552488&xvyber=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=552682&xvyber=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=552691&xvyber=8102
+
 ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&xobec=568163&xvyber=8102
+
                                     (… celkem 72 záznamů…)
+
 UKLÁDÁM DATA DO SOUBORU: okres_frydek-mistek.csv
 KONEC SCRAPOVÁNÍ - UKONČUJI BĚH PROGRAMU: volby2017.py
 
