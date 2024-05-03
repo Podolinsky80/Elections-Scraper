@@ -36,11 +36,15 @@ UKLÁDÁM DATA DO SOUBORU: okres_frydek-mistek.csv
 
 KONEC SCRAPOVÁNÍ - UKONČUJI BĚH PROGRAMU: volby2017.py
 
+
 Doprovodné soubory: - "requirements.txt" s pročištěným seznamem knihoven; - "okres_frydek-mistek.csv" s vygenerovanými výsledky voleb.
 
-Struktura výstupního csv souboru - ukázka pro první tři obce:
+Struktura výstupního csv souboru - ukázka pro první tři obce (řádkové záznamy od sebe odděleny mezerami pro lepší čitelnost):
 
 Kód obce,Název obce,Voliči v seznamu,Vydané obálky,Platné hlasy,Občanská demokratická strana,Řád národa - Vlastenecká unie,CESTA ODPOVĚDNÉ SPOLEČNOSTI,Česká str.sociálně demokrat.,Radostné Česko,STAROSTOVÉ A NEZÁVISLÍ,Komunistická str.Čech a Moravy,Strana zelených,"ROZUMNÍ-stop migraci,diktát.EU",Strana svobodných občanů,Blok proti islam.-Obran.domova,Občanská demokratická aliance,Česká pirátská strana,Česká národní fronta,Referendum o Evropské unii,TOP 09,ANO 2011,Dobrá volba 2016,SPR-Republ.str.Čsl. M.Sládka,Křesť.demokr.unie-Čs.str.lid.,Česká strana národně sociální,REALISTÉ,SPORTOVCI,Dělnic.str.sociální spravedl.,Svob.a př.dem.-T.Okamura (SPD),Strana Práv Občanů
+
 598011,Baška,3 093,2 065,2 053,"8,52 %","0,04 %","0,04 %","6,03 %","0,04 %","2,38 %","9,35 %","1,02 %","0,58 %","1,02 %","0,04 %","0,00 %","10,52 %","0,00 %","0,00 %","2,14 %","32,39 %","0,09 %","0,43 %","9,44 %","0,04 %","0,77 %","0,34 %","0,14 %","14,27 %","0,24 %"
+
 598020,Bílá,285,178,178,"10,67 %","0,00 %","0,00 %","7,86 %","0,00 %","5,61 %","11,79 %","1,68 %","0,56 %","0,00 %","0,56 %","0,00 %","6,74 %","0,56 %","0,00 %","1,68 %","29,21 %","0,00 %","0,00 %","8,42 %","0,00 %","1,68 %","0,00 %","0,00 %","12,92 %","0,00 %"
+
 511633,Bocanovice,358,197,197,"10,15 %","0,00 %","0,00 %","16,24 %","0,00 %","1,52 %","6,59 %","1,52 %","0,50 %","0,00 %","0,00 %","0,00 %","9,13 %","0,00 %","0,50 %","0,50 %","22,84 %","0,00 %","0,00 %","21,82 %","0,00 %","0,00 %","0,00 %","0,00 %","8,62 %","0,00 %"
