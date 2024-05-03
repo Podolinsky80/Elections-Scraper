@@ -33,6 +33,7 @@ ZÍSKÁVÁM DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=14&
                                     (… celkem 72 záznamů…)
 
 UKLÁDÁM DATA DO SOUBORU: okres_frydek-mistek.csv
+
 KONEC SCRAPOVÁNÍ - UKONČUJI BĚH PROGRAMU: volby2017.py
 
 Doprovodné soubory: - "requirements.txt" s pročištěným seznamem knihoven; - "okres_frydek-mistek.csv" s vygenerovanými výsledky voleb.
